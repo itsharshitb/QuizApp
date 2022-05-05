@@ -12,7 +12,7 @@ function Instruction() {
 						className='underline'
 						target='_blank'
 						rel='noreferrer'
-						href='mailto:devanshdubey@gmail.com'>
+						href='mailto:harshitbht11@gmail.com'>
 						Admin
 					</a>
 					.
