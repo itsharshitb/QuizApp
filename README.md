@@ -1,7 +1,7 @@
 # Getting Started with QUIZ APP
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
-QUIZ App developed by [Devansh Dubey](https://github.com/dubyeji0110) using ReactJS and deployed on Netlify.
+QUIZ App developed by [Harshit Bhatt](https://github.com/itsharshitb) using ReactJS and deployed on Netlify.
 
 ## Available Scripts
 
@@ -27,7 +27,7 @@ Your app is ready to be deployed!
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone https://github.com/dubeyji0110/QuizApp.git
+$ git clone https://github.com/itsharshitb/QuizApp.git
 $ cd QuizApp/
 ```
 
@@ -50,4 +50,4 @@ You can add your new features and pull a request, I will sure look into that.
 
 ## Authors
 
--   **Devansh Dubey** - _Initial work_ - [dubeyji0110](https://github.com/dubeyji0110)
+-   **Harshit Bhatt** - _Initial work_ - [itsharshitb](https://github.com/itsharshitb)
